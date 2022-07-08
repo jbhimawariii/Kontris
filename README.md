@@ -1,6 +1,6 @@
-# PokeTetris - Modern Tetris in Godot
+# Kontris - Modern Tetris in Godot
 
-A Godot clone of modern versions of tetris. With Pokeballs.
+A fork of PokeTetris hosted on my site.
 
 ![gameplay](https://github.com/jpcerrone/tetrisGodot/blob/master/spr/ReadmeDemo.gif)
 
@@ -24,10 +24,5 @@ A Godot clone of modern versions of tetris. With Pokeballs.
 * CTRL: Hold piece
 * ESC: Quit game
 
-## Author
+## Original Author
 Juan Cerrone
-
-If you like my work you can follow me here:
-* https://www.youtube.com/user/jpcerrone (Music/Programming)
-* https://www.instagram.com/juan.cerrone.pixel.art/ (Pixel Art)
-* https://open.spotify.com/artist/6H2QtCjF5ANcG7PhiRWNCq?si=3t06lhQ2RVm1r3B7c1vHDA (Spotify)
