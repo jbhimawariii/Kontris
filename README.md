@@ -17,11 +17,11 @@ A fork of PokeTetris hosted on my site.
 
 ## Controls:
 * Arrow keys (L-R): Move left and right
-* .: Rotate clockwise
+* Up Key: Rotate clockwise
 * ,: Rotate counterclockwise
-* SPACE: Hard Drop
+* /: Hard Drop
 * Down Key: Soft Drop
-* UP: Hold piece
+* Shift: Hold piece
 * ESC: Quit game
 
 ## Original Author
